@@ -1,19 +1,27 @@
-# SprintTrack
+# 🚀 SprintTrack
 
-Welcome to **SprintTrack**, a collection of practical Spring Boot mini-projects built to sharpen backend development skills. Each branch of this repo contains a fully functional, human-written Spring Boot application with RESTful APIs and in-memory logic.
+Welcome to **SprintTrack** — a playground of focused, functional Spring Boot mini-projects. Each branch is its own standalone project, crafted to teach, explore, and experiment.
 
-## 🔀 Project Branches
+## 📂 What's Inside?
 
-- **ToDoList** - Task management system (Coming soon)
-- **HostelReservation** - Student registration & room allocation system
-- **ParkingSystem** - Parking lot with real-time slot tracking and waitlist
-- **RestaurantSystem** - Restaurant menu with order cart
-- **More to come...**
+| Branch             | Description                                  |
+|--------------------|----------------------------------------------|
+| `ToDoList`         | Simple to-do task manager (with full CRUD)   |
+| `HostelReservation`| Hostel room booking & student management     |
+| `ParkingSystem`    | Smart parking slot tracker with waitlist     |
+| `RestaurantSystem` | Menu + order cart system for restaurants     |
 
 Each project:
-- Uses clean, beginner-friendly Java code
-- Follows proper REST conventions
-- Stores everything in memory (no database required)
-- Is self-contained and testable via Postman or Swagger UI
+- Uses Spring Boot with REST APIs
+- Includes projects that don't require DB (runs in-memory)
+- Follows a clean, beginner-friendly code style
+- Can be tested using Postman or Swagger
 
-Feel free to clone and explore each branch independently!
+---
+
+### 🧠 Why SprintTrack?
+
+Think of this repo as a dev gym:  
+Each project is a sprint — short, sharp, and built to boost Spring Boot skills.
+
+---
